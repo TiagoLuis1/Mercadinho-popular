@@ -17,12 +17,12 @@ import {
 // Your web app's Firebase configuration
 const firebaseConfig = {
   // Put you credentials here
-  apiKey: "AIzaSyB2BurO2tM90G0q3kMqq33fFYd2j70IpIk",
-  authDomain: "fir-crud-aula-cda45.firebaseapp.com",
-  projectId: "fir-crud-aula-cda45",
-  storageBucket: "fir-crud-aula-cda45.appspot.com",
-  messagingSenderId: "377544400039",
-  appId: "1:377544400039:web:75a2dfd53f746d8fe40f82"
+    apiKey: "AIzaSyBa1_LhpsuNZqZOHR3i3_35-f6qNGSSU1s",
+    authDomain: "aular-f9871.firebaseapp.com",
+    projectId: "aular-f9871",
+    storageBucket: "aular-f9871.appspot.com",
+    messagingSenderId: "1023047735293",
+    appId: "1:1023047735293:web:ffa94a76f36caf286c6b94"
 };
 
 // Initialize Firebase
